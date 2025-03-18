@@ -1,0 +1,59 @@
+margin
+
+body{
+        background-color: black;
+        text-align-last:center;
+    font-family: Arial, Helvetica, sans-serif;    
+        width: 1250px;
+        height: 800px;
+        font-size: large;
+        color: purple;
+}
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    padding-right: 60px;
+    font-size: 15px;
+    font-family: verdana;
+    text-align-last: right ;
+}
+
+#banner{
+    width: 1280px;
+    height: 500px;
+    border-radius: 0%;
+    display: flex;
+}
+img{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    border-color:black;
+}
+head{
+    width: 180px;
+    height: 180px
+}
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+h2{
+text-align: center;
+color: yellow;
+}
+div{
+    text-align: center;
+    }
+th{
+    color:rgb(12, 12, 12)
+}
+table{
+    text-align:center;
+    color: white;
+    border-color: red;
+}
+thead{
+    text-align: center;
+    color: white;
+}
